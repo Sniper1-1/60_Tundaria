@@ -1,6 +1,6 @@
 {
 	"name":"60_Tundaria",
-	"version_number": "0.1.3",
+	"version_number": "0.1.4",
 	"website_url":"https://github.com/Sniper1-1/60_Tundaria.git",
 	"description":"A snowy, (mostly) vanilla-esque moon.",
 	"dependencies":[

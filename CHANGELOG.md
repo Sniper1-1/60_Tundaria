@@ -1,3 +1,12 @@
+
+---
+
+**<details><summary>Version 0.1.4</summary>**
+
+ - Theoretically prevented entity spawning in garage.
+ 
+ </details>
+
 ---
 
 **<details><summary>Version 0.1.3</summary>**
