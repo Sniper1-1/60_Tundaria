@@ -11,7 +11,9 @@ Adds a snowy (mostly) vanilla-like moon to Lethal Company. ([Discord link](https
 > **POPULATION:** Abandoned<br>
 > **CONDITIONS:** An abandoned storage facility deep in the frozen mountains.<br>
 > **FAUNA:** Limited organisms reside within the mountains.
-![View of facility garage](https://imgur.com/BZRbvxg.png)
+![View of canyon](https://imgur.com/BSO0QR0.png)
+![View of garage](https://imgur.com/CZ8HSo3.png)
+![View of path](https://imgur.com/g8QWDhz.png)
 
 </details>
 
