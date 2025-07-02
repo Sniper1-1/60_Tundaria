@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.7</summary>**
+
+ - Added snowmen spawns in December.
+ - Changed box mesh.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.6</summary>**
 
  - Icon updated.
