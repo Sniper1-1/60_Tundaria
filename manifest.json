@@ -1,6 +1,6 @@
 {
 	"name":"60_Tundaria",
-	"version_number": "0.1.7",
+	"version_number": "0.1.8",
 	"website_url":"https://github.com/Sniper1-1/60_Tundaria.git",
 	"description":"A snowy, (mostly) vanilla-esque moon.",
 	"dependencies":[
@@ -8,6 +8,7 @@
 		"AudioKnight-StarlancerAIFix-3.11.1",
 		"JacobG5-JLL-1.9.8",
 		"WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1",
-		"mrov-AutoScroll-0.0.1"
+		"mrov-AutoScroll-0.0.1",
+		"ScienceBird-Universal_Radar-1.0.9"
 	]
 }
